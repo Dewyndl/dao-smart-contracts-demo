@@ -1,13 +1,26 @@
-# Sample Hardhat Project
+# DAO Smart Contracts Demo
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Hardhat-based DAO/smart-contract demo with Solidity contracts, deployment scripts, and frontend integration.
 
-Try running some of the following tasks:
+## What it demonstrates
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+- Solidity smart-contract development
+- Hardhat project setup
+- DAO-oriented contract patterns
+- Deployment script organization
+- Basic frontend integration concepts
+
+## Portfolio value
+
+Shows Web3/smart-contract implementation experience suitable for prototype, audit-prep, or integration tasks.
+
+## Tech stack
+
+- Solidity
+- Hardhat
+- JavaScript
+- HTML
+
+## Status
+
+Public portfolio demo. Contract explanations and test coverage notes are good next improvements.
